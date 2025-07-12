@@ -1,1 +1,3 @@
-# Potential_MFG_Inverse_Problems
+# Learning Surrogate Potential Mean Field Games via Gaussian Processes: A Data-Driven Approach to Ill-Posed Inverse Problems
+This repository contains the demonstration code for the paper ["Learning Surrogate Potential Mean Field Games via Gaussian Processes: A Data-Driven Approach to Ill-Posed Inverse Problems"](https://arxiv.org/abs/2502.11506).
+We have separated into three parts and provided some examples: the inf-sup algorithm (when V is unknown), the Bilevel method (when V, f (power function method, polynomial function method, Gaussian process method) are unknown), and the Adjoint method (We provided an example of how adjoint method is implemented when V, f (Gaussian proccess approximation method), Lambda is unknown).
